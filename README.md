@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [a cryptocurrency exchange project](https://github.com/Crc011220/coin-exchange)
 
-- 🌱 I’m currently learning **istio**
+- 🌱 I’m currently learning [**spark**](https://crc011220.github.io/personalweb/posts/spark/)
 
 - 👨‍💻 All of my projects are available at [my github account](https://github.com/Crc011220)
 
