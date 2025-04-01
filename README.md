@@ -9,15 +9,15 @@
 
 - 🌱 I’m currently learning **istio**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Crc011220](https://github.com/Crc011220)
+- 👨‍💻 All of my projects are available at [my github account](https://github.com/Crc011220)
 
-- 📝 I regularly write articles on [https://crc011220.github.io/personalweb/](https://crc011220.github.io/personalweb/)
+- 📝 I regularly write articles on [my blog website](https://crc011220.github.io/personalweb/)
 
 - 💬 Ask me about **spring, react, vue**
 
 - 📫 How to reach me **ruocchen1220@gmail.com**
 
-- 📄 Know about my experiences [https://crc011220.github.io/personalweb/intro.html](https://crc011220.github.io/personalweb/intro.html)
+- 📄 Know about my experiences [here](https://crc011220.github.io/personalweb/intro.html)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
