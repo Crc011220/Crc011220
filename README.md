@@ -102,7 +102,7 @@
 
 <br>
 <!-- Motto -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=用心传递技术。&author=Yaosir"  />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Hello, World。&author=Rc"  />
 
 
 <h3 style="color: #FFA500;">Programming Languages</h3>
