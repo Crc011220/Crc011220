@@ -132,8 +132,6 @@
 <!-- Stats Card -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Crc011220&show_icons=true&theme=radical)
 
-<!-- Award List -->
-![trophy](https://github-profile-trophy.vercel.app/?username=Crc011220&row=1&column=5&theme=juicyfresh&no-frame=false&no-bg=false)
 
 <!-- GitHub Activity Graph GitHub 活动图 -->
 <table>
@@ -149,6 +147,7 @@
 
 <br>
 
+![GitHub 3D Contribution](https://raw.githubusercontent.com/Crc011220/Crc011220/main/profile-3d-contrib/profile-night-rainbow.svg)
 ![leetcode](https://stats.justsong.cn/api/leetcode/?username=pjQlEQY1eS)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Crc011220&show_icons=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 
