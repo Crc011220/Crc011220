@@ -73,7 +73,7 @@
 <br>
 <!-- Little Logo -->
 <div style="display: flex; flex-direction: column; align-items: center; gap: 15px;">
-  <!-- 上四部分 -->
+  <!-- 上部分 -->
   <div style="display: flex; justify-content: center; gap: 10px;">
     <a href="https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity">
       <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" alt="Maintenance">
@@ -86,10 +86,10 @@
       <img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg" alt="Ask Me Anything !">
     </a>
   </div>
-  <!-- 下三部分 -->
+  <!-- 下部分 -->
   <div style="display: flex; justify-content: center; gap: 10px;">
-    <a href="https://GitHub.com/Naereen/ama.fr">
-      <img src="https://img.shields.io/badge/Demandez%20moi-n'%20importe%20quoi-1abc9c.svg" alt="Demandez moi n'importe quoi !">
+    <a href="https://github.com/RuochenChen/你的仓库/issues">
+      <img src="https://img.shields.io/badge/欢迎-提问-1abc9c.svg" alt="欢迎提问！">
     </a>
     <a href="https://github.com/Naereen/StrapDown.js/blob/master/LICENSE">
       <img src="https://img.shields.io/github/license/Naereen/StrapDown.js.svg" alt="GitHub license">
