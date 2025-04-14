@@ -78,7 +78,7 @@
     <a href="https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity">
       <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" alt="Maintenance">
     </a>
-    <img src="https://img.shields.io/badge/maintainer-theMaintainer-blue" alt="Maintainer">
+    <img src="https://img.shields.io/badge/maintainer-Rc-blue" alt="Maintainer">
     <a href="http://shields.io/">
       <img src="https://img.shields.io/website-up-down-green-red/http/shields.io.svg" alt="Website shields.io">
     </a>
@@ -94,16 +94,12 @@
     <a href="https://github.com/Naereen/StrapDown.js/blob/master/LICENSE">
       <img src="https://img.shields.io/github/license/Naereen/StrapDown.js.svg" alt="GitHub license">
     </a>
-    <a href="https://blog.csdn.net/qq_60865111?type=blog">
-      <img src="https://img.shields.io/badge/Blog-CSDN-orange.svg" alt="Blog">
-    </a>
   </div>
 </div>
 
 <br>
 <!-- Motto -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Hello, World.&author=Rc"  />
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=用心传递技术。&author=Yaosir"  />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Hello,World.&author=Rc"  />
 
 
 
