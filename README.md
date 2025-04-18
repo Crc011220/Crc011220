@@ -33,7 +33,7 @@
 
 <br>🔭 I’m currently working on [a cryptocurrency exchange project](https://github.com/Crc011220/coin-exchange)
 
-<br>🌱 I’m currently learning [**spark**](https://crc011220.github.io/personalweb/posts/spark/)
+<!-- <br>🌱 I’m currently learning [**spark**](https://crc011220.github.io/personalweb/posts/spark/)  -->
 
 <br>📝 I regularly write articles on [my blog website](https://crc011220.github.io/personalweb/)
 
@@ -112,12 +112,7 @@
 <h3 style="color: #FFA500;">Frameworks and Tools</h3>
 <br>
 
-[![Tools](https://skillicons.dev/icons?i=spring,react,vue,nodejs,express,nextjs,wordpress,aws,redis,rabbitmq,elasticsearch,kafka,nginx,mysql,mongodb,postgres,git,docker,kubernetes,linux,postman,maven,figma&theme=light&perline=7)](https://skillicons.dev)
-
-<h3 style="color: #FFA500;">IDEs</h3>
-<br>
-
-[![My Skills](https://skillicons.dev/icons?i=idea,pycharm,vscode,vim,webstorm&theme=light&perline=5)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=spring,react,vue,nodejs,express,nextjs,wordpress,aws,redis,rabbitmq,elasticsearch,kafka,nginx,mysql,mongodb,postgres,git,docker,kubernetes,linux,postman,maven,figma,idea,pycharm,vscode,vim,webstorm&theme=light&perline=7)](https://skillicons.dev)
 
 
 <br>
