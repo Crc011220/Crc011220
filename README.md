@@ -41,8 +41,10 @@
 
 <br>📫 How to reach me **ruocchen1220@gmail.com**
 
-<br>📄 Know about my experiences [here](https://crc011220.github.io/personalweb/intro.html)
-<br>
+<br>💻 See my [Resume](https://cv.rcchen.dpdns.org/)
+
+<br>📄 Know more about my experiences [here](https://crc011220.github.io/personalweb/intro.html)
+
 <br>
 
 <!-- World Peaceful words -->
