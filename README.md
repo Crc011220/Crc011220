@@ -33,17 +33,17 @@
 
 <br>🔭 I’m currently working on [a cryptocurrency exchange project](https://github.com/Crc011220/coin-exchange)
 
-<!-- <br>🌱 I’m currently learning [**spark**](https://crc011220.github.io/personalweb/posts/spark/)  -->
+<!-- <br>🌱 I’m currently practicing [**Algorithm**](https://blog.rcchen.dpdns.org/zh/posts/algo/)  -->
 
-<br>📝 I regularly write articles on [my blog website](https://crc011220.github.io/personalweb/)
+<br>📝 I regularly write articles on [my blog website](https://blog.rcchen.dpdns.org/)
 
-<br>💬 Ask me about **spring, react, vue**
+<br>💬 Familiar with **spring, react, vue**
 
 <br>📫 How to reach me **ruocchen1220@gmail.com**
 
 <br>💻 See my [Resume](https://cv.rcchen.dpdns.org/)
 
-<br>📄 Know more about my experiences [here](https://crc011220.github.io/personalweb/intro.html)
+<br>📄 Know more about my experiences [here](https://blog.rcchen.dpdns.org/intro.html)
 
 <br>
 
