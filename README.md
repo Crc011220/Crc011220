@@ -33,7 +33,7 @@
 
 <br>🔭 I’m currently working on [a cryptocurrency exchange project](https://github.com/Crc011220/coin-exchange)
 
-<!-- <br>🌱 I’m currently practicing [**Algorithm**](https://blog.rcchen.dpdns.org/zh/posts/algo/)  -->
+<br>🌱 I’m currently practicing [**Algorithm**](https://blog.rcchen.dpdns.org/zh/posts/algo/)
 
 <br>📝 I regularly write articles on [my blog website](https://blog.rcchen.dpdns.org/)
 
