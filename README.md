@@ -41,7 +41,7 @@
 
 <br>📫 How to reach me **ruocchen1220@gmail.com**
 
-<br>💻 See my [Resume](http://blog.rcchen.dpdns.org/cv/)
+<br>💻 See my [resume (CN)](http://blog.rcchen.dpdns.org/cv/), and [resume (EN)](http://blog.rcchen.dpdns.org/cv/en)
 
 <br>📄 Know more about my experiences [here](https://blog.rcchen.dpdns.org/intro.html)
 
