@@ -101,7 +101,7 @@
 
 <br>
 <!-- Motto -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Hello,World.&author=Rc"  />
+<!-- <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Hello,World.&author=Rc"  /> -->
 
 
 
