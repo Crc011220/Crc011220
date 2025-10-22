@@ -31,13 +31,13 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=crc011220" alt="crc011220" /></a> </p>
 
-<br>🔭 I’m currently working on [a cryptocurrency exchange project](https://github.com/Crc011220/coin-exchange)
+<!-- <br>🔭 I’m currently working on [a cryptocurrency exchange project](https://github.com/Crc011220/coin-exchange) -->
 
 <br>🌱 I’m currently practicing [**Algorithm**](https://blog.rcchen.dpdns.org/zh/posts/algo/)
 
 <br>📝 I regularly write articles on [my blog website](https://blog.rcchen.dpdns.org/)
 
-<br>💬 Familiar with **spring, react, vue**
+<br>💬 Familiar with **java related tech stacks**
 
 <br>📫 How to reach me **ruocchen1220@gmail.com**
 
